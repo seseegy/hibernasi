@@ -1,0 +1,469 @@
+Kopi di cangkir itu sudah tidak lagi hitam. Warnanya berubah menjadi keruh, tercampur sisa ampas dingin dari tiga cangkir sebelumnya yang belum sempat dicuci. Di luar jendela, langit Solo baru saja berganti dari ungu pekat menjadi oranye pucat. Adzan Subuh sayup-sayup terdengar, bersahutan dengan kokok ayam tetangga.
+
+Bagi kebanyakan orang, ini adalah waktunya bangun. Bagi Rosyid, ini adalah jam ke-168 dia terjaga.
+
+"Lo gila, Sid," suara Dimas terdengar pecah dari speaker ponsel yang diletakkan sembarangan di atas tumpukan kertas tagihan. "Katanya mau tobat jadi kuli freelance. Katanya mau hidup santai kayak beruang kutub. Kok malah nyiksa diri seminggu nggak tidur?"
+
+Rosyid tidak menoleh. Matanya yang dihiasi lingkaran hitam tebal terpaku pada layar monitor. Jari-jarinya menari di atas keyboard mekanikal dengan ritme yang agresif, seolah sedang memukuli musuh yang tak terlihat.
+
+"Ini bukan lembur, Dim," suara Rosyid serak, kering seperti gurun pasir. "Aku sedang merakit mesin."
+
+"Mesin apaan? Lo cuma coding inventory buat pedagang pasar, kan? Proyek lima juta perak?"
+
+Rosyid berhenti mengetik. Dia menatap kursor yang berkedip di baris ke-2000 kodenya.
+
+"Dengerin gue. Kalau gue ambil proyek ini sebagai freelancer biasa, gue kerjain, gue dapet duit, duit abis, gue cari kerjaan lagi. Itu bukan hidup. Itu perbudakan modern dengan benefit boleh pakai celana pendek di rumah." Rosyid mengambil napas panjang, lalu melanjutkan, "Tapi kali ini beda. Gue nggak bikin software buat klien. Gue bikin sistem."
+
+"Bedanya?"
+
+"Sistem nggak butuh gue. Sekali mesin ini nyala, gue nggak perlu nyangkul lagi. Selamanya."
+
+Di seberang telepon, Dimas menghela napas panjang. Rosyid bisa membayangkan temannya itu sedang duduk di apartemen kecilnya di Kuningan, kemeja putih sudah disetrika rapi untuk meeting jam 8, sepatu pantofel mengkilap di rak. Dimas adalah definisi sukses versi orang tua mereka: gaji dua digit, asuransi kesehatan, dan nama jabatan yang panjang di kartu nama.
+
+"Gue ngerti lo capek, Sid. Dulu gue juga mikir kayak lo." Suara Dimas melembut, tapi ada nada superioritas yang tidak bisa disembunyikan. "Tapi tau nggak bedanya kita? Lo masih ngejar mimpi, gue udah bangun. Sekarang gue tidur nyenyak. Tanggal 25 pasti gajian. Nggak perlu mikir klien kabur atau invoice nggak dibayar. Lo? Lo tidur sambil megang HP, takut ada chat masuk."
+
+"Lo juga nggak bisa tidur siang hari Selasa."
+
+"Emang kenapa? Lo bisa tidur siang hari Selasa tapi nggak bisa tidur malam hari Minggu karena deadline." Dimas tertawa kecil. "Sid, gue sayang lo sebagai temen. Makanya gue jujur. Umur lo udah 28. Masih mau main-main bikin startup? Yang bikin Gojek aja udah punya modal miliaran dari awal. Lo punya apa? Laptop cicilan sama delusi?"
+
+Rosyid menggigit bibir. Kata-kata itu menusuk karena ada benarnya.
+
+"Terserah lo, Sang Ahli Hibernasi," lanjut Dimas. "Tapi kalau tahun depan lo masih gini—masih begadang, masih makan mie instan, masih ngemis invoice—jangan salahin siapa-siapa. Lo yang pilih. Oh iya, tawaran gue masih berlaku. Kantor gue butuh backend developer. Gaji 25 juta, remote tiga hari seminggu. Kapan lagi ada yang mau nampung lo?"
+
+Rosyid melirik amplop cokelat di sudut meja. Tagihan listrik. Tagihan internet. Dan yang paling menakutkan: cicilan laptop yang nunggak dua bulan.
+
+"Gue pikirin," jawab Rosyid, bohong.
+
+Rosyid menyebutnya Auto-Toko. Sebuah ide sederhana yang lahir saat ia melihat Bu Wati, pedagang sembako di Pasar Gede, pusing mencatat stok beras yang keluar masuk.
+
+Bu Wati bukan sekadar klien. Dia adalah janda tiga anak yang suaminya meninggal karena kecelakaan kerja di pabrik tekstil empat tahun lalu. Tidak ada pesangon yang layak. Tidak ada asuransi. Yang tersisa hanya lapak sembako kecil dan tekad baja untuk menyekolahkan anak-anaknya sampai kuliah.
+
+Rosyid pertama kali bertemu Bu Wati saat membeli beras untuk persediaan begadang. Saat itu Bu Wati sedang menangis diam-diam di balik tumpukan karung, menghitung stok yang tidak pernah cocok dengan catatan.
+
+"Saya bukan orang sekolahan, Mas," kata Bu Wati waktu itu, matanya sembab. "Nulis aja masih suka kebalik-balik. Tapi kalau saya salah hitung, ya rugi. Rugi sedikit-sedikit, lama-lama bangkrut."
+
+Malam itu, Rosyid tidak jadi beli beras. Dia pulang dengan ide.
+
+Rosyid tidak menjual aplikasi ini putus. Dia menyewakannya. Murah. Cukup langganan bulanan seharga dua bungkus rokok. Tapi kuncinya ada di skalabilitas. Satu Bu Wati tidak akan membuatnya kaya. Tapi seratus Bu Wati? Seribu? Dan semuanya berjalan otomatis?
+
+Masalahnya, sisa tabungan Rosyid tinggal 4,7 juta rupiah. Cukup untuk sewa server tiga bulan dan makan seadanya. Kalau dalam tiga bulan Auto-Toko tidak menghasilkan, dia harus memilih: minta tolong kakaknya yang sudah punya tiga anak, atau menerima tawaran Dimas dan kembali ke dunia yang dia benci.
+
+Rosyid melempar punggungnya ke sandaran kursi ergonomis yang sudah mulai miring ke kiri. Dia menatap layar. Baris kode terakhir sudah selesai. Script validasi sudah hijau. Server cloud termurah yang bisa ia sewa sudah siap.
+
+Di layar monitor, tombol "DEPLOY" berwarna biru menyala, seolah menantangnya.
+
+Ada satu bug kecil yang dia tahu masih bersembunyi di fungsi auto-backup. Kadang muncul, kadang tidak. Tapi dia sudah terlalu lelah untuk mencari. "Nanti aja," pikirnya. "Paling nggak kritis."
+
+"Berakit-rakit ke hulu..." gumam Rosyid sambil mendekatkan jari telunjuknya ke tombol Enter.
+
+Klik.
+
+Layar memuat proses upload. Satu detik. Dua detik. Tiga detik.
+
+Tulisan STATUS: ONLINE muncul dengan warna hijau neon yang menyakitkan mata.
+
+Rosyid tersenyum tipis. Tubuhnya yang dipaksa tegak selama tujuh hari akhirnya menyerah. Gravitasi terasa sepuluh kali lipat lebih berat. Dia menyeret kakinya menuju kasur busa di pojok kamar.
+
+Dia pikir dia akan tidur nyenyak selama dua hari penuh. Dia pikir mesinnya sudah sempurna. Dia pikir hibernasi dimulai hari ini.
+
+Dia salah besar.
+
+-
+
+Baru lima belas menit Rosyid memejamkan mata. Kesadarannya sedang melayang di ambang batas antara dunia nyata dan alam mimpi, sebuah fase nikmat yang disebut drifting.
+
+Tring!
+
+Bunyi itu tajam, menusuk gendang telinga di ruangan yang sunyi senyap.
+
+Rosyid mengerang. Matanya masih tertutup rapat, menolak bekerja sama. "Abaikan," bisik otaknya. "Itu pasti spam pinjol."
+
+Tring!
+
+Tring! Tring!
+
+Bunyi itu bertubi-tubi. Bukan satu pesan. Itu serangan fajar.
+
+Dengan geraman kesal, Rosyid meraba-raba nakas, menyambar ponselnya. Cahaya layar menusuk mata yang belum siap. Di sana, di bar notifikasi, ada kabar baik dan kabar buruk yang datang berpelukan.
+
+Bank Jago: Dana masuk Rp 150.000.
+Bank Jago: Dana masuk Rp 150.000.
+WhatsApp (Nomor Baru): "Mas, ini aplikasinya kok muter-muter doang?"
+WhatsApp (Bu Wati): "Mas Rosyid, tombol 'Simpan'-nya ilang! Saya mau pulang nggak bisa tutup buku!"
+
+Jantung Rosyid yang tadinya melambat untuk istirahat, mendadak dipompa adrenalin. Bu Wati adalah klien pertama. Kalau dia kecewa, dia akan cerita ke pedagang soto di sebelahnya, lalu ke pedagang ayam, dan reputasi Auto-Toko hancur sebelum matahari terbit.
+
+Lebih dari itu—Rosyid teringat wajah Bu Wati yang menangis di balik karung beras. Dia tidak bisa mengecewakan ibu itu.
+
+Rosyid bangkit duduk. Kepala pening. Dia mengetik balasan dengan satu mata tertutup.
+
+"Sebentar Bu, coba di-refresh halamannya. Tarik layarnya ke bawah."
+
+Satu menit kemudian.
+
+"Oalah, sudah bisa Mas. Makasih hehe."
+
+Rosyid menghela napas lega. Dia melempar HP ke kasur dan menjatuhkan kepala lagi ke bantal. Masalah selesai. Kembali tidur.
+
+Tring!
+
+"Mas, saya lupa password. Sandinya kemarin tanggal lahir cucu saya atau plat nomor motor ya?"
+
+"ARGH!" Rosyid berteriak pada langit-langit kamar.
+
+-
+
+*HARI KE-1 SETELAH LAUNCH*
+
+07:15 — "Mas, cara input barang gimana?" (Sudah ada di tutorial)
+09:30 — "Kok harganya jadi 0? Saya masukin 15000 lho" (Dia ketik 15.000 pakai titik)
+14:45 — "Aplikasinya tiba-tiba keluar sendiri" (Baterai HP 2%)
+21:00 — "Mas Rosyid online nggak? Mau tanya..." (Tidak ada pertanyaan lanjutan)
+
+*HARI KE-2*
+
+Rosyid terbangun karena mimpi buruk. Dalam mimpinya, notifikasi WhatsApp berubah jadi lebah yang menyengat kepalanya bertubi-tubi. Dia meraih HP. 43 pesan belum dibaca.
+
+Satu nama baru muncul: Haji Soleh, pedagang tekstil.
+
+"Mas, saya sudah bayar 500ribu untuk 3 bulan. Kok fitur laporannya nggak lengkap? Saya mau yang bisa export Excel. Di aplikasi sebelah bisa. Masa aplikasi Mas nggak bisa? Kalau nggak bisa, saya minta refund aja deh."
+
+Rosyid mengecek fitur request. Export Excel tidak ada di roadmap. Itu butuh waktu seminggu untuk dibuat.
+
+Dia mengetik dengan hati-hati: "Pak Haji, fitur itu sedang dalam pengembangan. Mungkin 2 minggu lagi—"
+
+Balasan datang dalam 30 detik. Tiga pesan beruntun.
+
+"2 minggu? Saya butuh SEKARANG Mas."
+"Saya ini langganan pertama lho. Harusnya dapat prioritas."
+"Gini aja deh. Kalau besok siang belum bisa, saya refund. Terus saya ceritain ke grup pedagang Pasar Klewer. 200 orang isinya. Biar mereka tau kualitas aplikasi Mas kayak gimana."
+
+Rosyid menatap layar. Tangannya gemetar. Bukan karena marah—karena takut. Satu review buruk dari orang berpengaruh bisa membunuh bisnisnya yang baru lahir.
+
+*HARI KE-3*
+
+Pak Darmo, pedagang kelontong, mengirim voice note 3 menit penuh keluhan. Intinya: dia tidak bisa menemukan tombol "Input" yang ada tepat di tengah layar, berwarna hijau terang, dengan tulisan "INPUT BARANG" dalam huruf kapital.
+
+Rosyid membanting pelan mouse-nya.
+
+Malam itu, Haji Soleh mengirim pesan lagi.
+
+"Gimana Mas? Sudah bisa export Excel? Apa saya harus telepon langsung?"
+
+"Belum Pak, saya sedang kerjakan yang lain dulu—"
+
+"Oh gitu. Jadi saya nggak prioritas ya. Oke Mas, nggak apa-apa. Besok saya refund aja. Sekalian saya screenshot chat ini, saya share ke grup. Biar pada tau gimana pelayanan Auto-Toko. Makasih ya Mas."
+
+Pesan terakhir itu terasa seperti tamparan.
+
+Rosyid menatap saldo rekeningnya. 3,2 juta. Turun 1,5 juta dalam tiga hari untuk biaya server yang dia upgrade karena panik, dan makan delivery karena tidak sempat masak.
+
+Dia membuka chat Dimas.
+
+"Dim, tawaran lo masih berlaku?"
+
+Tiga menit kemudian: "Masih. Interview bisa minggu depan. Lo oke?"
+
+Jari Rosyid menggantung di atas keyboard. Satu ketukan, dan semuanya selesai. Dia bisa tidur nyenyak. Gaji pasti. Tidak ada Haji Soleh yang mengancam.
+
+Tapi kemudian, notifikasi lain muncul.
+
+Bu Wati: "Mas Rosyid, makasih ya. Hari ini saya nggak salah hitung lagi. Anak saya bilang, 'Ibu sekarang kayak pengusaha beneran.' Hehe. Semoga Mas Rosyid sehat selalu."
+
+Rosyid menatap pesan itu lama sekali.
+
+Dia menghapus ketikan balasannya ke Dimas.
+
+-
+
+Pukul 2 pagi, hari ke-4.
+
+Rosyid duduk di depan komputer dengan mangkuk mie instan yang sudah mengembang dingin. Rambutnya mencuat ke segala arah seperti antena rusak. Matanya merah, tapi ada sesuatu yang berbeda di sana. Bukan keputusasaan. Bukan kepanikan.
+
+Kemarahan dingin.
+
+"Gue nggak akan kalah sama Haji Soleh," gumamnya.
+
+Dia membuka kembali kode Auto-Toko. Masalahnya bukan di aplikasi. Masalahnya di sistem. Selama dia masih menjadi bagian dari operasional harian—menjawab chat, mengecek mutasi rekening, mereset password—maka Auto-Toko bukanlah bisnis. Itu hanya pekerjaan sampingan dengan jam kerja neraka.
+
+"Hapus faktor manusianya," gumam Rosyid. Jari-jarinya kembali menari di atas keyboard. "Kalau manusianya dihapus, errornya hilang."
+
+Malam itu, Rosyid tidak tidur lagi. Tapi kali ini, bukan karena teror notifikasi. Dia mematikan nada dering ponselnya dan membiarkan pesan menumpuk. Dia sedang membangun benteng.
+
+*Langkah pertama: Pusat Edukasi.*
+
+Rosyid menyalakan webcam laptopnya. Dengan rambut yang masih berantakan dan kaos oblong, dia merekam serangkaian video pendek berdurasi 30 detik.
+
+"Halo, Pak, Bu. Kalau mau tambah stok, jangan tekan tombol merah. Tekan yang hijau. Merah itu hapus. Hijau itu tambah. Ingat ya, Hijau itu Rezeki."
+
+Dia membuat sepuluh video untuk sepuluh masalah paling umum. Dia mengunggahnya ke server, membuat halaman "Bantuan" yang besar dan mencolok di aplikasi.
+
+*Langkah kedua: Integrasi Pembayaran.*
+
+Selamat tinggal transfer manual. Selamat tinggal "Mas, sudah masuk belum?".
+
+Rosyid membuka dokumentasi Midtrans. Layar laptopnya dipenuhi istilah yang dulu pernah dia hindari: API Key, Server Key, Callback URL, Signature Hash. Setiap parameter harus tepat. Satu typo di Merchant ID, transaksi bisa nyangkut di limbo—uang sudah terpotong dari pelanggan, tapi tidak pernah sampai ke rekening Rosyid.
+
+Dia menghabiskan empat jam untuk debugging satu error: "Invalid Signature". Ternyata dia lupa meng-encode parameter dalam urutan alfabetis sebelum di-hash.
+
+Pukul 6 pagi, payment gateway akhirnya jalan. Sekarang, setiap kali pedagang membayar lewat virtual account, sistem otomatis memperpanjang masa aktif mereka.
+
+*Langkah ketiga, dan ini mahakaryanya: Si Bot.*
+
+Rosyid tidak menggunakan AI canggih. Dia butuh sesuatu yang bisa dia kontrol sepenuhnya, yang tidak akan "berhalusinasi" dan memberikan jawaban ngawur. Dia merancang decision tree sederhana yang dia namakan "Asisten Toko".
+
+Logikanya brutal namun efektif:
+
+- Jika pesan mengandung "lupa" + "password" → Kirim link reset otomatis
+- Jika pesan mengandung "error" atau "gagal" → Minta screenshot, kirim link troubleshoot
+- Jika pesan mengandung "cara" atau "gimana" → Kirim video tutorial yang relevan
+- Jika pelanggan mengirim lebih dari 5 pesan dalam 1 jam tanpa menunggu jawaban → Kirim: "Mohon tunggu, pertanyaan Anda sedang diproses."
+- Jika keyword tidak dikenali → Masukkan ke queue untuk dijawab manual (tapi delay 6 jam)
+
+Dan untuk Haji Soleh? Rosyid menambahkan satu rule khusus:
+
+- Jika pengirim = Haji_Soleh DAN pesan mengandung "refund" atau "review" → Auto-reply: "Terima kasih atas masukannya. Tim kami akan menghubungi Anda dalam 1x24 jam."
+
+Bukan solusi permanen, tapi cukup untuk membeli waktu.
+
+Terakhir, Rosyid membuka panel cloud server. Dia menulis script auto-scaling sederhana: jika CPU usage melewati 80% selama 60 detik, spawn instance baru. Jika traffic turun, matikan instance tambahan untuk hemat biaya.
+
+Pukul 09.00 pagi. Semuanya siap.
+
+Rosyid menekan tombol deploy. Kode baru menyebar ke semua aplikasi pedagang.
+
+Dia menunggu. Menatap ponselnya yang tergeletak di meja seperti bom waktu.
+
+Layar menyala. Pesan WhatsApp dari Bu Wati.
+
+"Mas Rosyid, kok saya gak bisa login ya? Lupa sandi lagi."
+
+Tangan Rosyid bergerak refleks ingin meraih HP, tapi dia menahannya. "Biarkan," bisiknya. "Percaya sama mesin."
+
+Di layar monitor, log aktivitas muncul.
+
+[BOT] Detected: "lupa" + "sandi". Action: Send password reset link.
+
+Satu menit kemudian.
+
+[SYSTEM] User Bu_Wati successfully logged in.
+
+Ponsel Rosyid tidak berbunyi lagi.
+
+Kemudian, notifikasi lain:
+
+[PAYMENT] Received Rp 50.000 from Toko_Pak_Darmo via VA. Subscription extended 30 days.
+
+Tanpa Rosyid perlu mengecek mutasi. Tanpa Rosyid perlu bilang "Terima kasih". Uang itu masuk begitu saja.
+
+Rosyid menyandarkan punggungnya. Untuk pertama kalinya dalam empat hari, wajahnya basah. Dia tidak sadar kapan air mata itu keluar.
+
+-
+
+Rosyid melirik ransel gunungnya yang berdebu di sudut kamar. Ransel yang sudah setahun tidak disentuh.
+
+"Ujian terakhir," katanya.
+
+Dia akan pergi ke tempat di mana sinyal internet tidak bisa menjangkaunya. Jika sistemnya bertahan tanpa dia, berarti mesinnya benar-benar hidup. Jika tidak...
+
+Rosyid tidak mau memikirkan kemungkinan itu.
+
+-
+
+Ketinggian 2.500 mdpl.
+
+Di sini, oksigen tipis, tapi kebebasan melimpah ruah. Rosyid duduk di depan tendanya, menghadap lautan awan yang bergulung pelan menyelimuti punggung bukit.
+
+Di tangannya, ponsel menampilkan satu bar sinyal yang berkedip lemah, lalu lenyap. No Service.
+
+Rosyid menekan tombol power. Tahan tiga detik. Layar meredup, lalu hitam.
+
+"Tidur," bisiknya pada benda mati itu.
+
+Dia merebahkan diri di matras, memandang langit yang mulai gelap.
+
+Tapi tidur tidak datang dengan mudah. Otaknya terus berputar. Bagaimana kalau ada bug yang tidak terdeteksi? Bagaimana kalau Haji Soleh benar-benar menyebarkan review buruk? Bagaimana kalau—
+
+Angin gunung berhembus, membawa aroma tanah basah dan daun pinus.
+
+Rosyid memaksa matanya tertutup.
+
+Detik berikutnya, dia sudah terlelap.
+
+-
+
+*DI KOTA, 100 KM DARI SANA*
+*SERVER AUTO-TOKO — 19:30 WIB*
+
+Bu Wati baru saja membagikan tautan tokonya ke grup WhatsApp PKK kecamatan. "Ibu-ibu, kalau mau pesan beras murah, klik link ini ya. Canggih lho, bisa pesen sendiri!"
+
+Tautan itu menyebar viral. Tiga ratus ibu-ibu mencoba mengakses Auto-Toko secara bersamaan.
+
+CPU Server menjerit. Penggunaan memori menabrak 95%.
+
+[WARNING] High Latency Detected.
+[WARNING] Database Connection Pool: Full.
+
+Di rumah masing-masing, ibu-ibu mulai mengetik komplain.
+
+"Kok muter terus?"
+"Yah, error nih."
+
+Jika ini terjadi empat hari yang lalu, Rosyid akan panik. Tapi Rosyid sedang tidur di gunung.
+
+*SERVER AUTO-TOKO — 19:32 WIB*
+
+Script penjaga yang ditulis Rosyid mulai terbangun.
+
+[AUTO-SCALER] CPU Load > 80% for 60 seconds.
+[ACTION] Spawning additional instance...
+[STATUS] Instance 2: Online.
+[STATUS] Instance 3: Online.
+
+Beban terdistribusi. Lampu indikator kembali hijau.
+
+Bot "Asisten Toko" menangkap pesan yang masuk.
+
+"Mbak, berasnya pulen gak?"
+
+[BOT] Auto-reply: "Beras Rojo Lele Grade A, dijamin pulen Bu. Info lengkap ada di foto produk."
+
+Transaksi mulai mengalir.
+
+Ting! Rp 150.000.
+Ting! Rp 300.000.
+Ting! Rp 75.000.
+
+Uang digital mengalir melalui kabel serat optik, menembus payment gateway, dan mendarat di rekening Rosyid.
+
+Tapi kemudian, sesuatu terjadi.
+
+[ERROR] Auto-backup failed: Disk quota exceeded.
+
+Bug kecil yang Rosyid abaikan di hari pertama akhirnya muncul. Fungsi backup yang seharusnya berjalan setiap jam, gagal karena storage penuh.
+
+Sistem tidak crash. Semua transaksi tetap tercatat di database utama. Tapi kalau database utama corrupt tanpa backup...
+
+Di server, sebuah script yang terkubur di folder /utils/ tiba-tiba aktif.
+
+[ALERT] Backup failure detected. Initiating emergency protocol...
+[ACTION] Running cleanup_old_logs.sh...
+[ACTION] Deleting files older than 7 days...
+[STATUS] Freed 2.3GB space.
+[STATUS] Backup resumed successfully.
+
+Script itu bernama "emergency_cleanup.sh"—ditulis pukul 4:47 pagi di hari ke-empat, saat Rosyid sudah setengah sadar, matanya hampir tertutup, jari-jarinya bergerak autopilot di keyboard.
+
+Dia tidak ingat menulisnya. Tapi kodenya ada di sana, dengan komentar yang ditulis dalam keadaan setengah bermimpi:
+
+// kalau disk penuh, hapus log lama
+// jangan sampe backup gagal
+// gue gamau bangun tengah malem lagi
+
+Otak Rosyid yang kelelahan, tanpa sadar, telah menyiapkan jaring pengaman untuk dirinya sendiri.
+
+-
+
+*KEESOKAN PAGI — 05:30 WIB*
+
+Matahari terbit menyapu kabut tipis di puncak gunung.
+
+Rosyid bangun dengan tulang punggung yang berbunyi "krek". Dia tidur sepuluh jam tanpa mimpi buruk.
+
+Dia menyeduh kopi sachet dengan air panas dari kompor portabel. Rasanya jauh lebih nikmat daripada kopi mahal manapun.
+
+Kemudian, dia merogoh tasnya. Mengeluarkan ponsel yang masih mati.
+
+Jantungnya berdegup kencang. Lebih kencang daripada saat mendaki tanjakan kemarin.
+
+"Kalau saldonya kosong," bisiknya pada diri sendiri, "artinya gue bukan founder. Gue cuma orang gagal yang lari ke gunung."
+
+Dia menekan tombol power.
+
+Logo muncul. Loading.
+
+Sinyal perlahan terdeteksi. Satu bar. Dua bar.
+
+Lalu—
+
+Connection timeout.
+
+Layar membeku.
+
+Rosyid merasakan perutnya mulas. Jantungnya berhenti sedetik.
+
+"No no no no—"
+
+Dia mengangkat ponsel lebih tinggi, mencari sinyal.
+
+Loading... Loading...
+
+Tiga detik terpanjang dalam hidupnya.
+
+Lalu, semua notifikasi menyerbu sekaligus.
+
+Ponsel bergetar tanpa henti. Bukan getaran pendek. Getaran panjang yang tak putus.
+
+Rosyid menelan ludah. Dia membuka aplikasi mobile banking.
+
+Angka saldo muncul.
+
+Matanya membelalak.
+
+Saldonya bertambah. Bukan sedikit. Hampir tiga kali lipat dari kemarin.
+
+Dia buru-buru membuka WhatsApp. 200 pesan belum terbaca. Tangannya gemetar saat menggulir.
+
+Pesan dari Bu Wati:
+"Mas Rosyid, semalam rame banget yang pesen! Untung aplikasinya pinter, bisa balesin chat ibu-ibu PKK pas saya lagi tidur. Tetangga saya Bu Tejo yang jualan batik minta dibuatin juga!"
+
+Pesan dari Pak Darmo:
+"Mas, iuran bulan depan sudah saya transfer. Saya jadi bisa pulang cepet sekarang."
+
+Dan yang paling mengejutkan—pesan dari Haji Soleh:
+"Mas Rosyid, maaf ya kemarin saya emosian. Ternyata fitur yang ada sudah cukup kok. Istri saya yang ngajarin cara pakainya. Lanjut langganan ya."
+
+Rosyid membuka dashboard admin.
+
+System Status: 100% Operational.
+Uptime: 99.7%.
+Active Users: 23 (+13 New).
+
+Ada satu log yang menarik perhatiannya:
+
+[ALERT] Backup failure detected — RESOLVED via emergency_cleanup.sh
+
+Rosyid mengernyit. emergency_cleanup.sh? Dia tidak ingat—
+
+Lalu memori samar itu muncul. Pukul 4 pagi. Mata yang hampir tertutup. Jari yang mengetik tanpa kesadaran penuh. Komentar kode yang ditulis setengah bermimpi: "gue gamau bangun tengah malem lagi."
+
+Rosyid tertawa. Tawa yang pecah, setengah tidak percaya. Versi dirinya yang kelelahan, yang setengah sadar, ternyata cukup waras untuk menyiapkan jaring pengaman.
+
+"Makasih, gue yang kemarin," bisiknya.
+
+Rosyid meletakkan ponselnya. Dia menatap matahari yang naik perlahan di ufuk timur.
+
+Dia tidak menangis. Dia tidak berteriak kegirangan.
+
+Dia hanya duduk diam, menyeruput kopinya yang mulai dingin, sambil membiarkan angin gunung menerbangkan semua ketakutannya.
+
+-
+
+Rosyid turun gunung dua hari kemudian.
+
+Saldonya bertambah 2,3 juta tanpa dia menyentuh keyboard.
+Bu Wati mengirim foto: ada 7 pedagang baru yang mendaftar.
+Haji Soleh merekomendasikan Auto-Toko ke grupnya di Pasar Klewer.
+
+Rosyid tidak langsung kaya.
+Dia masih tinggal di kamar kos yang sama, dengan kursi ergonomis yang miring ke kiri.
+
+Tapi hari Selasa minggu itu, dia tidur siang.
+
+Untuk pertama kalinya dalam lima tahun, dia bangun bukan karena alarm atau notifikasi.
+
+Tapi karena mimpi indah yang tidak ingin dia tinggalkan.
+
+-
+
+(TAMAT)
